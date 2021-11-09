@@ -1,0 +1,16 @@
+ ~run
+console
+submit fl163163@gmail.com J6Ulgdm9kijJzs4G
+import example.Lists._
+sum(List())
+sum(List(1))
+console
+sbt
+console
+import example.Lists._
+~compile
+console
+import example.Lists._
+console
+submit fl163163@gmail.com dR41IDIdhlzuO7mg
+submit fl163163@gmail.com dR41IDIdhlzuO7mg;
